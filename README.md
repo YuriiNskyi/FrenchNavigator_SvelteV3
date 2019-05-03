@@ -2,7 +2,7 @@
 
 ## Demo
 
-https://french-navigator-svelte-v3.netlify.com/
+https://french-navigator-svelte-v3.naurynskyi.dev/
 
 ## Starter template
 
